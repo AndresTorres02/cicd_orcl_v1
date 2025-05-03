@@ -24,4 +24,4 @@
           echo "SELECT country_code, official_name, population \
           FROM countries WHERE name = 'Austria';" \
           | sql test/test@localhost/FREEPDB1
-
+	  #Termina
